@@ -1,6 +1,6 @@
 { 
 "id": "1"
 "question":"what is your name?",
-"optionns": ["berlin", "ahmed", "mohammed", "abdullah"]'
+"optionns": ["berlin", "ahmed", "mohammed", "abdullah"],
 "answer":"abdullah"
 }
